@@ -3,7 +3,7 @@ let e40and50 = [];
 let e50and60 = [];
 let m60 = [];
 
-let n = prompt("¿Cuantos alumnos hay? ");
+let n = prompt("Ingrese la cantidad de alumnos: ");
 
 for (i=1; i<=n; i++) {
   let alumnos = prompt("Agrega un peso: ");
